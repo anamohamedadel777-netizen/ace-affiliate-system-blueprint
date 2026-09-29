@@ -1,0 +1,6 @@
+{
+  "name": "ACE Affiliate System Blueprint",
+  "description": "مخطط ACE لبناء نظام الأفلييت من الصفر - أداة قرار تفاعلية لتشخيص مكانك وبناء نظام التسويق بالعمولة خطوة بخطوة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
